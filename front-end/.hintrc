@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "development"
+  ],
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 114",
+    "not chrome <= 115",
+    "not samsung <= 21",
+    "not edge <= 114",
+    "not ios_saf <= 16.5",
+    "not opera <= 100",
+    "not safari <= 16.5"
+  ],
+  "hints": {
+    "typescript-config/consistent-casing": "off",
+    "typescript-config/strict": "off"
+  }
+}
